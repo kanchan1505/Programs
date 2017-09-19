@@ -1,4 +1,3 @@
-package Apoorv.JavaProject;
 import java.util.Scanner;
 public class Election
 {
